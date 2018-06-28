@@ -79,7 +79,7 @@ class MyController extends HttpController
 }
 ```
 
-Hay dos métodos especiales que no se corresponden con ningún método HTTP: `OPEN` y `CLOSE`. Estos métodos se llaman **antes** y **después** de cualquier otro método, respectivamente. Son muy útiles para iniciar y cerrar recursos, aunque el método `CLOSE` raramente lo usaremos, ya que los recursos suelen cerrarse de automáticamente.
+Hay dos métodos especiales que no se corresponden con ningún método HTTP: `OPEN` y `CLOSE`. Estos métodos se llaman **antes** y **después** de cualquier otro método, respectivamente. Son muy útiles para iniciar y cerrar recursos, aunque el método `CLOSE` raramente lo usaremos, ya que los recursos suelen cerrarse automáticamente.
 
 ```php
 class MyController extends HttpController
