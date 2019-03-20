@@ -18,16 +18,6 @@
 
     <mark>PHP</mark> <mark>XML</mark> <mark>CSS</mark>
 
-- name: $.htmlParser
-  link: github.com/soloproyectos-js/jquery.htmlparser
-  github: github.com/soloproyectos-js/jquery.htmlparser
-  quote: >
-    Un plugin de jQuery para corregir, leer y transformar documentos HTML / XML.
-  description: | # this will include new lines to allow paragraphs
-    Se trata de un plugin para jQuery que nos permite leer, transformar y corregir documentos HTML o XML.
-
-    <mark>JavaScript</mark> <mark>jQuery</mark> <mark>HTML</mark> <mark>XML</mark>
-
 - name: Photomanager
   link: github.com/gchumillas/photomanager
   github: github.com/gchumillas/photomanager
@@ -37,3 +27,13 @@
     En realidad el proyecto nació como una excusa para aprender el [lenguaje GO](https://golang.org/). Consiste en una aplicación REST que se comunica con la API de Dropbox y permite gestionar tus propias imágenes. La aplicación fue desarrollada contra una base de datos MongoDB.
 
     <mark>REST</mark> <mark>GO</mark> <mark>MongoDB</mark> <mark>Dropbox API</mark> <mark>OAuth2</mark>
+
+- name: $.htmlParser
+  link: github.com/soloproyectos-js/jquery.htmlparser
+  github: github.com/soloproyectos-js/jquery.htmlparser
+  quote: >
+    Un plugin de jQuery para corregir, leer y transformar documentos HTML / XML.
+  description: | # this will include new lines to allow paragraphs
+    Se trata de un plugin para jQuery que nos permite leer, transformar y corregir documentos HTML o XML.
+
+    <mark>JavaScript</mark> <mark>jQuery</mark> <mark>HTML</mark> <mark>XML</mark>
