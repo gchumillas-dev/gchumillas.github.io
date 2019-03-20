@@ -1,7 +1,39 @@
-- name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+- name: Gestor de fotografías
+  link: github.com/gchumillas/petitphotobox
+  github: github.com/gchumillas/petitphotobox
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    Me gusta el mundo de la fotografía y necesitaba una aplicación para gestionar mis imágenes almacenadas en Dropbox.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    El proyecto consta de dos partes, una en el lado del servidor desarrollada en PHP y MySQL y otra en el lado del cliente desarrollada en Angular y TypeScript.  Y su principal virtud, aparte de organizar tus fotos de Dropbox, consiste en poder incluír una misma foto en varias categorías.
+
+    <mark>PHP</mark> <mark>MySQL</mark> <mark>JSON</mark> <mark>Angular</mark> <mark>TypeScript</mark> <mark>Dropbox API</mark> <mark>OAuth2</mark>
+
+- name: DOMNode
+  link: github.com/soloproyectos-php/dom-node
+  github: github.com/soloproyectos-php/dom-node
+  quote: >
+    Una librería para crear, manipular y leer documentos XML de forma fácil e intuitiva.
+  description: | # this will include new lines to allow paragraphs
+    DOMNode fue un proyecto desarrollado en PHP y originalmente inspirado en jQuery. Actualmente consiste en una clase mediante la cual podemos crear, manipular y leer documentos XML de una forma fácil e intuitiva. Entre sus características cabe destacar el uso de CSS como lenguaje de consultas.
+
+    <mark>PHP</mark> <mark>XML</mark> <mark>CSS</mark>
+
+- name: $.htmlParser
+  link: github.com/soloproyectos-js/jquery.htmlparser
+  github: github.com/soloproyectos-js/jquery.htmlparser
+  quote: >
+    Un plugin de jQuery para corregir, leer y transformar documentos HTML / XML.
+  description: | # this will include new lines to allow paragraphs
+    Se trata de un plugin para jQuery que nos permite leer, transformar y corregir documentos HTML o XML.
+
+    <mark>JavaScript</mark> <mark>jQuery</mark> <mark>HTML</mark> <mark>XML</mark>
+
+- name: Photomanager
+  link: github.com/gchumillas/photomanager
+  github: github.com/gchumillas/photomanager
+  quote: >
+    Una aplicación REST para la gestión de fotografías.
+  description: | # this will include new lines to allow paragraphs
+    En realidad el proyecto nació como una excusa para aprender el [lenguaje GO](https://golang.org/). Consiste en una aplicación REST que se comunica con la API de Dropbox y permite gestionar tus propias imágenes. La aplicación fue desarrollada contra una base de datos MongoDB.
+
+    <mark>REST</mark> <mark>GO</mark> <mark>MongoDB</mark> <mark>Dropbox API</mark> <mark>OAuth2</mark>
