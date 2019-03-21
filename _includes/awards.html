@@ -1,0 +1,17 @@
+<div class="container projects-container">
+  <h3>{{ site.awards_title | default: "Awards" }}</h3>
+  {% for award in site.data.awards %}
+    <div class="row clearfix experience">
+      <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 left-column">
+        <h4>{{ award.name }}</h4>
+        <p><b>{{ award.title }}</b></p>
+        {%- if award.link -%}
+          {% include a.html href=award.link class="project-link" %}{{ award.link }}</a>
+        {%- endif -%}
+      </div>
+      <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
+        {{ award.description | strip | markdownify }}
+      </div>
+    </div>
+  {% endfor %}
+</div>
