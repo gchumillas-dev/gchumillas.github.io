@@ -1,0 +1,15 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+@import "modern-resume-theme";
+
+.printable {
+  display: none;
+}
+
+@media print {
+  .printable {
+    display: inherit;
+  }
+}
