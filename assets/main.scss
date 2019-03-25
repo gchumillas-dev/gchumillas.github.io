@@ -9,6 +9,10 @@
 }
 
 @media print {
+  mark {
+    font-weight: bold;
+  }
+
   .printable {
     display: inherit;
   }
