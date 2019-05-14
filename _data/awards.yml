@@ -2,7 +2,7 @@
   title: Innovation Award
   link: phpclasses.org/package/8218-PHP-Manipulate-records-retrieved-with-select-queries.html
   description: | # this will include new lines to allow paragraphs
-    Suele ser habitual tener una tabla principal y varias tablas secundarias que "cuelgan" de ella. Y realizar operaciones como inserción, edición o lectura sobre todas esas tablas tiende a ser una tarea engorrosa. Mediante esta librería podemos operar sobre todas esas tablas de una sola vez, simplificando el código fuente.
+    Suele ser habitual tener una tabla principal y varias tablas secundarias. Y realizar operaciones como inserción, edición o lectura sobre todas esas tablas tiende a ser una tarea engorrosa. Mediante esta librería podemos operar sobre todas esas tablas de una sola vez, simplificando el código fuente.
 
     Esta librería se usó en un proyecto mucho más ambicioso para la gestión de contenidos online.
 
