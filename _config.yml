@@ -23,7 +23,7 @@ linkedin_username: gonzalo-chumillas-5303b5163
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hola, mi nombre es Gonzalo y soy desarrollador web senior. A lo largo de mi trayectoria profesional he desarrollado tanto aplicaciones como sitios web, aunque también he ofrecido soporte técnico, como la administración de servidores basados en Linux. Me considero especialmente habilidoso para el <mark>Análisis</mark>, <mark>Desarrollo</mark> y <mark>Maquetación</mark> de aplicaciones y sitios web.
+  Hola, mi nombre es Gonzalo y soy desarrollador web senior. A lo largo de mi trayectoria profesional he desarrollado tanto aplicaciones como sitios web, aunque también he ofrecido soporte técnico, como la administración de servidores basados en Linux. Me considero especialmente hábil para el <mark>Análisis</mark>, <mark>Desarrollo</mark> y <mark>Maquetación</mark> de aplicaciones y sitios web.
 about_additional_info: | # this will include new lines to allow paragraphs
   <strong>Me gustaría destacar que actualmente busco un trabajo en remoto</strong>, con la opción de acudir un día a la semana a la oficina. Ya he trabajado de forma remota durante muchos años y me resulta muy cómoda, a la vez que productiva.
 
@@ -39,11 +39,7 @@ about_additional_info: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  No todo va a ser programar. También me gusta la fotografía y salir con mi Ricoh GR II a cazar momentos. Antes tenía una Fuji X-T1, una excelente cámara, pero algo voluminosa para practicar la fotografía callejera. Aquí podréis ver algunas de mis fotos (ojo, no soy profesional):
-
-  <a href="http://500px.com/gonzalochumillas" target="_blank">
-    500px.com/gonzalochumillas
-  </a>
+  No todo va a ser programar. También me gusta la fotografía y salir con mi Ricoh GR II a cazar momentos. Antes tenía una Fuji X-T1, una excelente cámara, pero algo voluminosa para practicar la fotografía callejera.
 
 # Footer
 footer_show_references: false

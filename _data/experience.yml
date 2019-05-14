@@ -41,3 +41,14 @@
     Mi trabajo consistía en programar algoritmos para determinar la posición de los sitios web en los distintos buscadores, y de esta forma facilitar su posicionamiento.
 
     <mark>PHP</mark> <mark>MySQL</mark>
+
+- company: Grupo Recoletos | Gaceta Universitaria (GU)
+  link: www.linkedin.com/company/grupo-recoletos-gaceta-universitaria-gu/about/
+  job_title: Desarrollador Delphi
+  dates: Marzo 2003 - Septiembre 2003
+  quote: >
+    El Grupo Recoletos nació en 1992 mediante la fusión de una serie de cabeceras editoriales entre las que se encontraban Marca, Expansión, Actualidad Económica o Diario Médico.
+  description: | # this will include new lines to allow paragraphs
+    Desarrollo de aplicaciones internas en Delphi contra bases de datos Oracle.
+
+    <mark>Delphi</mark> <mark>Oracle</mark>
