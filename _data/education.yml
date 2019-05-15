@@ -1,7 +1,7 @@
-- name: Facultad de Matemáticas de Sevilla
+- name: Faculty of Mathematics of Seville
   dates: 1995 - 2001
   # qualification: Licenciatura
   description: | # this will include new lines to allow paragraphs
-    Aunque finalmente me decanté por el estudio de las Ciencias Matemáticas, siempre he dedicado tiempo a la programación, disciplina que encuentro estrechamente ligada a mis estudios.
+    Although I finally chose the study of Mathematical Sciences, I have always devoted time to programming, a discipline that I find closely linked to my studies.
 
-    Poseo un inglés técnico alto, idioma que utilizo tanto para documentar como en el propio código fuente.
+    I have a high technical English, a language that I use both to document and in the source code itself.

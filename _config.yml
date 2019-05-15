@@ -1,21 +1,21 @@
 # Site
-about_title: Sobre mí
-projects_title: Proyectos personales
-experience_title: Experiencia
-awards_title: Reconocimientos
-education_title: Educación e idiomas
-more_title: Un poco más sobre mí
+about_title: About me
+projects_title: Personal projects
+experience_title: Experience
+awards_title: Awards
+education_title: Education and Languages
+more_title: A little more about me
 repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
 name: Gonzalo Chumillas
-title: Desarrollador web senior
+title: Web senior developer
 email: gonzalo.chumillas@gmail.com
 website: gonzalo-chumillas.github.io
 github: github.com/gchumillas
 linkedin: linkedin.com/in/gchumillas
-phone: 611 079 599
+phone: (+34) 611 079 599
 
 # Social links
 github_username: gchumillas
@@ -25,11 +25,11 @@ linkedin_username: gonzalo-chumillas-5303b5163
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  A lo largo de mi trayectoria profesional y durante más de diez años he desarrollado tanto aplicaciones como sitios web, principalmente en PHP, MySQL, jQuery y posteriormente en Angular y React. Aunque también he ofrecido soporte técnico, como la administración de servidores basados en Linux. Me considero especialmente hábil para el <mark>análisis</mark> y el <mark>desarrollo</mark> de aplicaciones y para la <mark>maquetación</mark> de interfaces de usuarios.
+  Throughout my professional career and for more than ten years I have developed both applications and websites, mainly in PHP, MySQL, jQuery and later in Angular and React. Although I have also offered technical support, such as the administration of Linux-based servers. I consider myself especially skilled for <mark>analysis</mark> and the <mark>developing</mark> of applications and for <mark>layout</mark> of user interfaces.
 
-  **Me gustaría destacar que actualmente busco trabajos en remoto.**
+  **I would like to highlight that I am currently looking for remote works.**
 
-  Ya he trabajado de forma remota durante bastantes años con muy buenos resultados.
+  I have already worked remotely for several years with very good results.
 
 # Projects Section
 # projects_title: Projects
@@ -43,7 +43,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  No todo va a ser programar. También me gusta la fotografía y salir con mi Ricoh GR II a cazar momentos. Antes tenía una Fuji X-T1, una excelente cámara, pero algo voluminosa para practicar la fotografía callejera.
+  Not everything is going to be programmed. I also like photography and go out with my Ricoh GR II to hunt moments. Before I had a Fuji X-T1, an excellent camera, but a bit bulky to practice street photography.
 
 # Footer
 footer_show_references: false

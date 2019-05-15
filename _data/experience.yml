@@ -1,43 +1,43 @@
 - company: Audisec, Seguridad de la Información S.L.
   link: www.audisec.es
-  job_title: Desarrollador Full Stack
-  dates: Octubre 2018 - Febrero 2019
+  job_title: Full Stack Developer
+  dates: OCT 2018 - FEB 2019
   quote: >
-    Organización dedicada a aportar soluciones de seguridad de la información, continuidad de negocio, gestión y mejora de procesos y adecuación a la ley orgánica de protección de datos a sus clientes.
+    Organization dedicated to providing information security solutions, business continuity, management and process improvement and adaptation to the organic law of data protection to its customers.
   description: | # this will include new lines to allow paragraphs
-    Formé parte de un equipo para el desarrollo de una aplicación en React y otra aplicación en Laravel y MongoDB. Ambas aplicaciones conformaban un único producto. Y mi cometido consistía en aportar mis conocimientos y experiencia para acelerar el desarrollo del proyecto.
+    I was part of a team for the development of an application in React and another application in Laravel and MongoDB. Both applications were a single product. And my task was to contribute my knowledge and experience to accelerate the development of the project.
 
     <mark>SCRUM</mark> <mark>React (+Redux +Saga)</mark> <mark>JavaScript (ECMAScript 6)</mark> <mark>Laravel (Lumen)</mark> <mark>MongoDB</mark>
 
 - company: Axis Studios, Los Angeles (California)
   link: axis-studios.com
-  job_title: Desarrollador Full Stack (REMOTO, 13 años)
-  dates: Julio 2005 - Enero 2018
+  job_title: Full Stack Developer (REMOTE, 13 years)
+  dates: JUL 2005 - JAN 2018
   quote: >
     Empresa dedicada al diseño y desarrollo de aplicaciones y sitios web y estrechamente relacionada con la industria cinematográfica de Hollywood.
   description: | # this will include new lines to allow paragraphs
-    Durante bastantes años he trabajado para un cliente con sede en Los Angeles, desarrollando aplicaciones y sitios web, principalmente en PHP, MySQL, jQuery y posteriormente en Angular 6. También ofrecía soporte técnico para el mantenimiento de sus servidores Linux.
+    For many years I worked for a client based in Los Angeles, developing applications and websites, mainly in PHP, MySQL, jQuery and later in Angular 6. It also offered technical support for the maintenance of their Linux servers.
 
     <mark>PHP</mark> <mark>MySQL</mark> <mark>jQuery</mark> <mark>Angular</mark> <mark>Linux</mark> <mark>HTML5</mark> <mark>CSS3</mark> <mark>XML</mark> <mark>JSON</mark>
 
 - company: Elimco Sistemas, Sevilla
   link: www.elimcoaerospace.com
-  job_title: Desarrollador J2EE
-  dates: Marzo 2005 - Junio 2005
+  job_title: J2EE Developer
+  dates: MAR 2005 - JUN 2005
   quote: >
-    Servicios de ingeniería informática, tales como sistemas de información geográfica.
+    Computer engineering services, such as geographic information systems.
   description: | # this will include new lines to allow paragraphs
-    Formé parte de un equipo en el desarrollo de una aplicación para la Administración Pública en la plataforma J2EE (JBoss) y Oracle.
+    I was part of a team in the development of an application for Public Administration in the J2EE platform (JBoss) and Oracle.
 
     <mark>Java</mark> <mark>J2EE</mark> <mark>Oracle</mark>
 
 - company: Islared SLU, Las Palmas
   link: www.islared.com
-  job_title: Desarrollador PHP
-  dates: Junio 2004 - Octubre 2004
+  job_title: PHP Developer
+  dates: JUN 2004 - OCT 2004
   quote: >
-    Marketing en Internet, especializada en Posicionamiento SEO.
+    Internet Marketing, specialized in SEO Positioning.
   description: | # this will include new lines to allow paragraphs
-    Mi trabajo consistía en programar algoritmos para determinar la posición de los sitios web en los distintos buscadores, y de esta forma facilitar su posicionamiento.
+    My job consisted of programming algorithms to determine the position of the websites in the different search engines, and in this way facilitate their positioning.
 
     <mark>PHP</mark> <mark>MySQL</mark>

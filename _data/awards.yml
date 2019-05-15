@@ -2,9 +2,9 @@
   title: Innovation Award
   link: phpclasses.org/package/8218-PHP-Manipulate-records-retrieved-with-select-queries.html
   description: | # this will include new lines to allow paragraphs
-    Suele ser habitual tener una tabla principal y varias tablas secundarias. Y realizar operaciones como inserción, edición o lectura sobre todas esas tablas tiende a ser una tarea engorrosa. Mediante esta librería podemos operar sobre todas esas tablas de una sola vez, simplificando el código fuente.
+    It is usual to have a main table and several secondary tables. And perform operations such as insertion, editing or reading on all those tables tends to be a cumbersome task. Through this library we can operate on all those tables at once, simplifying the source code.
 
-    Esta librería se usó en un proyecto mucho más ambicioso para la gestión de contenidos online.
+    This library was used in a much more ambitious project for online content management.
 
     <mark>PHP</mark> <mark>SQL</mark>
 
@@ -12,6 +12,6 @@
   title: Innovation Award
   link: phpclasses.org/package/6968-PHP-Convert-HTML-for-Flash-to-regular-HTML.html
   description: | # this will include new lines to allow paragraphs
-    Aunque hoy en día Adobe Flash y [ActionScript](https://www.adobe.com/devnet/actionscript/learning.html) son consideradas tecnologías obsoletas, hubo un tiempo en el que muchos programadores trabajábamos en ese entorno de desarrollo. Y entre sus características destacaba la posibilidad de embeber textos "enriquecidos" con etiquetas HTML. Mediante esta librería podemos transformar [HTML para Flash](https://help.adobe.com/en_US/as3/dev/WS8d7bb3e8da6fb92f-20050207122bd5f80cb-8000.html#WS8d7bb3e8da6fb92f-20050207122bd5f80cb-7ffd) en el estándar HTML5.
+    Although today Adobe Flash and ActionScript are considered obsolete technologies, there was a time when many programmers worked in that development environment. And among its features it highlighted the possibility of embedding "enriched" texts with HTML tags. Through this library we can transform HTML for Flash into the HTML5 standard.
 
     <mark>Adobe Flash</mark> <mark>ActionScript</mark> <mark>PHP</mark> <mark>HTML5</mark>
