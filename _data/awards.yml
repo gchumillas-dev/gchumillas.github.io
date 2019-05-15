@@ -14,6 +14,4 @@
   description: | # this will include new lines to allow paragraphs
     Aunque hoy en día Adobe Flash y [ActionScript](https://www.adobe.com/devnet/actionscript/learning.html) son consideradas tecnologías obsoletas, hubo un tiempo en el que muchos programadores trabajábamos en ese entorno de desarrollo. Y entre sus características destacaba la posibilidad de embeber textos "enriquecidos" con etiquetas HTML. Mediante esta librería podemos transformar [HTML para Flash](https://help.adobe.com/en_US/as3/dev/WS8d7bb3e8da6fb92f-20050207122bd5f80cb-8000.html#WS8d7bb3e8da6fb92f-20050207122bd5f80cb-7ffd) en el estándar HTML5.
 
-    A pesar de que actualmente la librería solo tiene un valor sentimental, en su día me solucionó muchos problemas.
-
     <mark>Adobe Flash</mark> <mark>ActionScript</mark> <mark>PHP</mark> <mark>HTML5</mark>
