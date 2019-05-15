@@ -90,14 +90,14 @@
           Email: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
         </p>
       {%- endif -%}
+      {%- if site.website -%}
+        <p>
+          Website: {% include a.html href=site.website %}{{ site.website | escape }}</a>
+        </p>
+      {%- endif -%}
       {%- if site.linkedin -%}
         <p class="printable">
           LinkedIn: {% include a.html href=site.linkedin %}{{ site.linkedin | escape }}</a>
-        </p>
-      {%- endif -%}
-      {%- if site.website -%}
-        <p>
-          Web: {% include a.html href=site.website %}{{ site.website | escape }}</a>
         </p>
       {%- endif -%}
       {%- if site.github -%}
