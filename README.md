@@ -34,7 +34,7 @@ $ npm install -g watchy
 5. Run your Jekyll site locally:
 
 ```bash
-$ watchy -w _config.yml -- jekyll serve --watch
+$ watchy -w _config.yml -- bundle exec jekyll serve
 ```
 
 **Additional information:** The following command won't work, since the website contents are located in the `_config.yml` file, and the Jekyll server doesn't reload when that file changes:
