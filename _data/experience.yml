@@ -3,9 +3,9 @@
   job_title: Full Stack Developer
   dates: OCT 2018 - FEB 2019
   quote: >
-    Organization dedicated to providing information security solutions, business continuity, management and process improvement and adaptation to the organic law of data protection to its customers.
+    Information security solutions and adaptation to the organic law of data protection.
   description: | # this will include new lines to allow paragraphs
-    I was part of a team for the development of an application in React and another application in Laravel and MongoDB. Both applications were a single product. And my task was to contribute my knowledge and experience to accelerate the development of the project.
+    I was part of a development team to create a React application in combination with Laravel and MongoDB. My mission consisted in contribute my expertise to accelerate the development of the project.
 
     <mark>SCRUM</mark> <mark>React (+Redux +Saga)</mark> <mark>JavaScript (ECMAScript 6)</mark> <mark>Laravel (Lumen)</mark> <mark>MongoDB</mark>
 
@@ -14,9 +14,9 @@
   job_title: Full Stack Developer (REMOTE, 13 years)
   dates: JUL 2005 - JAN 2018
   quote: >
-    Empresa dedicada al diseño y desarrollo de aplicaciones y sitios web y estrechamente relacionada con la industria cinematográfica de Hollywood.
+    Design and development of web websites and applications.
   description: | # this will include new lines to allow paragraphs
-    For many years I worked for a client based in Los Angeles, developing applications and websites, mainly in PHP, MySQL, jQuery and later in Angular 6. It also offered technical support for the maintenance of their Linux servers.
+    For many years I worked for a client based in Los Angeles, building web applications and websites, mainly in PHP, MySQL, jQuery and later in Angular and TypeScript. I also offered technical support for their Linux-based servers.
 
     <mark>PHP</mark> <mark>MySQL</mark> <mark>jQuery</mark> <mark>Angular</mark> <mark>Linux</mark> <mark>HTML5</mark> <mark>CSS3</mark> <mark>XML</mark> <mark>JSON</mark>
 
@@ -27,7 +27,7 @@
   quote: >
     Computer engineering services, such as geographic information systems.
   description: | # this will include new lines to allow paragraphs
-    I was part of a team in the development of an application for Public Administration in the J2EE platform (JBoss) and Oracle.
+    I was part of a development team to create an application for Public Administration in J2EE and Oracle.
 
     <mark>Java</mark> <mark>J2EE</mark> <mark>Oracle</mark>
 
@@ -38,6 +38,6 @@
   quote: >
     Internet Marketing, specialized in SEO Positioning.
   description: | # this will include new lines to allow paragraphs
-    My job consisted of programming algorithms to determine the position of the websites in the different search engines, and in this way facilitate their positioning.
+    My tasks consisted of maintaining and programming algorithms to determine the position of the websites in the different search engines and, that way, facilitate the promotion.
 
     <mark>PHP</mark> <mark>MySQL</mark>
