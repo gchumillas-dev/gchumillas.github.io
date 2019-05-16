@@ -25,11 +25,11 @@ linkedin_username: gonzalo-chumillas-5303b5163
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Throughout my professional career and for more than ten years I have developed both applications and websites, mainly in PHP, MySQL, jQuery and later in Angular and React. Although I have also offered technical support, such as the administration of Linux-based servers. I consider myself especially skilled for <mark>analysis</mark> and the <mark>developing</mark> of applications and for <mark>layout</mark> of user interfaces.
+  Hi! my name's Gonzalo and I worked for over ten years building websites and web applications, mainly in PHP, MySQL, jQuery and later in Angular and React. I have also offered technical support, such as the administration of Linux-based servers. I consider myself specially qualified for the <mark>analysis</mark>, <mark>development</mark> and <mark>design</mark> of applications and user interfaces.
 
-  **I would like to highlight that I am currently looking for remote works.**
+  **It's important for me to note that I'm currently looking for remote jobs.**
 
-  I have already worked remotely for several years with very good results.
+  I already worked remotely for quite some years with very good results.
 
 # Projects Section
 # projects_title: Projects
@@ -43,7 +43,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Not everything is going to be programmed. I also like photography and go out with my Ricoh GR II to hunt moments. Before I had a Fuji X-T1, an excellent camera, but a bit bulky to practice street photography.
+  Not everything is coding. I also like photography and exploring and capturing moments with my Ricoh GR II. Previously I had a Fuji X-T1, a fantastic camera, but it was a bit big for street photography.
 
 # Footer
 footer_show_references: false
