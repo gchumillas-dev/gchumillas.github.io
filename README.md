@@ -36,11 +36,3 @@ $ npm install -g watchy
 ```bash
 $ watchy -w _config.yml -- bundle exec jekyll serve
 ```
-
-**Additional information:** The following command won't work, since the website contents are located in the `_config.yml` file, and the Jekyll server doesn't reload when that file changes:
-
-```bash
-jekyll serve --watch
-```
-
-That's the reason why we use [whatchy](https://www.npmjs.com/package/watchy) to reload the server.
