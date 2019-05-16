@@ -2,21 +2,20 @@
   link: github.com/gchumillas/petitphotobox
   github: github.com/gchumillas/petitphotobox
   quote: >
-    I like the world of photography and I needed an application to manage my images stored in Dropbox.
+    I'm a photography enthusiast and I wanted an application to manage my Dropbox images.
   description: | # this will include new lines to allow paragraphs
-    The project consists of two parts, one on the server side developed in PHP and MySQL and another on the client side developed in Angular and TypeScript. And its main virtue, apart from organizing your Dropbox photos, is to be able to include the same photo in several categories.
+    The project consists of two parts, one on the server-side developed in PHP and MySQL and another one on the client-side developed in Angular and TypeScript. And its main virtue, apart from organizing your Dropbox photos, is the ability of including the same photo in different categories.
 
     <mark>PHP</mark> <mark>MySQL</mark> <mark>JSON</mark> <mark>Angular</mark> <mark>TypeScript</mark> <mark>Dropbox API</mark> <mark>OAuth2</mark>
 
-- name: PHPQuery
+- name: phpQuery
   link: github.com/gchumillas/php.query
   github: github.com/gchumillas/php.query
   quote: >
-    A library to create, manipulate and read XML documents easily and intuitively.
+    A library to create, update and read XML documents in an easy and intuitive way.
   description: | # this will include new lines to allow paragraphs
-    PHPQuery was a library developed in PHP and originally inspired by jQuery. It was used in an ambitious private project and currently consists of a class through which we can create, manipulate and read XML documents in an easy and intuitive way. Among its features include the use of CSS as a query language.
+    A library developed in PHP and originally inspired by jQuery. It was used in an ambitious private project and currently consists of a class from which we can create, update and read XML documents in an easy and intuitive way. Furthermore, we can use CSS3 as a query language to parse DOM documents.
 
-    **Currently I'm still working on new projects and bookstores.<br>
-    You will find more examples in my [GitHub](http://github.com/gchumillas) profile.**
+    **There are more projects and libraries in my [GitHub](http://github.com/gchumillas) account. Please take a look at it.**
 
-    <mark>PHP</mark> <mark>XML</mark> <mark>CSS</mark>
+    <mark>PHP</mark> <mark>DOM</mark> <mark>XML</mark> <mark>CSS</mark>
