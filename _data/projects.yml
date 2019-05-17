@@ -6,7 +6,7 @@
   description: | # this will include new lines to allow paragraphs
     El proyecto consta de dos partes, una en el lado del servidor desarrollada en PHP y MySQL y otra en el lado del cliente desarrollada en Angular y TypeScript.  Y su principal virtud, aparte de organizar tus fotos de Dropbox, consiste en poder incluír una misma foto en varias categorías.
 
-    <mark>PHP</mark> <mark>MySQL</mark> <mark>JSON</mark> <mark>Angular</mark> <mark>TypeScript</mark> <mark>Dropbox API</mark> <mark>OAuth2</mark>
+    <mark>PHP</mark> <mark>MySQL</mark> <mark>JSON</mark> <mark>Angular</mark> <mark>TypeScript</mark> <mark>Dropbox API</mark> <mark>OAuth2</mark> <mark>HTML5</mark> <mark>CSS3</mark> <mark>SASS</mark>
 
 - name: PHPQuery
   link: github.com/gchumillas/php.query
