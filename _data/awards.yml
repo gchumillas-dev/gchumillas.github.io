@@ -2,9 +2,9 @@
   title: Innovation Award
   link: phpclasses.org/package/8218-PHP-Manipulate-records-retrieved-with-select-queries.html
   description: | # this will include new lines to allow paragraphs
-    It is usual to have a main table and several secondary tables. And perform operations such as insertion, editing or reading on all those tables tends to be a cumbersome task. Through this library we can operate on all those tables at once, simplifying the source code.
+    It's usual to have a main table and a list of secondary tables linked to it. And perform operations such as inserting, updating, reading or deleting over all those tables tends to be a little tricky. Thanks to this library we can perform such those operations at once, simplifying the source code.
 
-    This library was used in a much more ambitious project for online content management.
+    This library was used in a more ambitious project.
 
     <mark>PHP</mark> <mark>SQL</mark>
 
@@ -12,6 +12,6 @@
   title: Innovation Award
   link: phpclasses.org/package/6968-PHP-Convert-HTML-for-Flash-to-regular-HTML.html
   description: | # this will include new lines to allow paragraphs
-    Although today Adobe Flash and ActionScript are considered obsolete technologies, there was a time when many programmers worked in that development environment. And among its features it highlighted the possibility of embedding "enriched" texts with HTML tags. Through this library we can transform HTML for Flash into the HTML5 standard.
+    Even though Adobe Flash and ActionScript are now considered obsolete technologies, there was a time when many programmers worked on that environment. This library can transform "HTML for Flash" to standard HTML.
 
     <mark>Adobe Flash</mark> <mark>ActionScript</mark> <mark>PHP</mark> <mark>HTML5</mark>
