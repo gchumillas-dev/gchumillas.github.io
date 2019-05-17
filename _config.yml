@@ -28,7 +28,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi! my name's Gonzalo and I worked for over ten years building websites and web applications, mainly in PHP, MySQL, jQuery and later in Angular and React. I have also offered technical support, such as the administration of Linux-based servers. I consider myself specially qualified for the <mark>analysis</mark>, <mark>development</mark> and <mark>design</mark> of applications and user interfaces.
 
-  **It's important for me to note that I'm currently looking for remote jobs.**
+  **<< It's important for me to note that I'm currently looking for remote jobs. >>**
 
   I already worked remotely for quite some years with very good results.
 
