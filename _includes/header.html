@@ -110,6 +110,11 @@
           Teléfono: <strong>{{ site.phone | escape }}</strong>
         </p>
       {%- endif -%}
+      {%- if site.skype -%}
+        <p>
+          Skype: <strong>{{ site.skype | escape }}</strong>
+        </p>
+      {%- endif -%}
       {%- if site.location -%}
         <p>
           <i class="fa fa-map-marker"></i> <strong>{{ site.location | escape }}</strong>
